@@ -97,6 +97,9 @@ uploads/
 temp/
 tmp/
 
+# Development docs (pre-development files)
+docs/
+
 # DeepfakeBench specific
 third_party/DeepfakeBench/preprocessing/logs/
 third_party/DeepfakeBench/training/output/
