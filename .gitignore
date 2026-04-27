@@ -102,5 +102,3 @@ third_party/DeepfakeBench/preprocessing/logs/
 third_party/DeepfakeBench/training/output/
 third_party/DeepfakeBench/training/test_logs/
 
-# Embedded git repositories (submodules handled separately)
-third_party/DeepfakeBench/
